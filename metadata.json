@@ -1,0 +1,5 @@
+{
+  "name": "Indices de Precios INEI",
+  "description": "Visualizador de índices de precios al consumidor y al por mayor de Perú (INEI)",
+  "requestFramePermissions": []
+}
